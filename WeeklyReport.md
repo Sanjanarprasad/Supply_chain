@@ -47,5 +47,5 @@ The data validates a market necessity for FarmTrace, provided the system focuses
 
 ## Strategic Conclusion
 
-The AgroLedger system has evolved from validated research insights into a complete working solution. It effectively addresses transparency, trust, and traceability challenges identified during field research, demonstrating practical applicability in real-world agricultural supply chains.
+The AgroLedger has evolved from validated research insights into a complete working solution. It effectively addresses transparency, trust, and traceability challenges identified during field research, demonstrating practical applicability in real-world agricultural supply chains.
 
