@@ -50,7 +50,7 @@ AgroLedger is a simple and reliable system designed to improve transparency and 
 
 
 🛠️ Tech Stack
-	•	Frontend: React
+	•	Frontend: React.js with type Script
 	•	Blockchain: Web3.js
 	•	Cloud Storage: JSONBin
 	•	QR Code: QR generation & scanning libraries
