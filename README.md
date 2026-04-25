@@ -9,17 +9,17 @@ AgroLedger is a simple and reliable system designed to improve transparency and 
 
 
 🚀 Key Features
-	•	🌾 Farmer-Friendly Input System
+	•Farmer-Friendly Input System
     Farmers can easily enter crop details like name, type, location, and harvest date.
-	•	🆔 Unique Batch ID Generation
+	•Unique Batch ID Generation
     Each crop batch gets a unique ID for identification.
-	•	🔗 Blockchain Integration
+	•Blockchain Integration
     Ensures data is secure, tamper-proof, and trustworthy.
-	•	☁️ Cloud Backup (JSONBin)
+	•Cloud Backup (JSONBin)
     Works even without blockchain access.
-	•	📱 QR Code Verification
+	•QR Code Verification
     Buyers can scan a QR code to instantly view product details.
-	•	✅ Smart Verification System
+	•Smart Verification System
 	  •Checks blockchain first
 	  •	Falls back to cloud if needed
 	  •	Displays verification status clearly
